@@ -1,5 +1,17 @@
 /* Imported Google Font */
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 </style>
 
+/* CSS Variables */
+
+:root {
+    --primary-font:"Montserrat", san-sarif;
+    --secondary-font:"Hind",san-sarif;
+    --primary-color:#000000;
+    --second-color:#14213D;
+    --highlight-color:#FCA311;
+    --Background-color:#E5E5E5;
+}
+
+/* Global Styles */

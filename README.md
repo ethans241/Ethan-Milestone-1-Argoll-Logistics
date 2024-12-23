@@ -49,11 +49,27 @@ If you want to add optional [shields.io](https://shields.io) badges to your READ
 
 ## User Experience (UX)
 
-👩🏻‍💻 View an example of a completed user experience section [here](https://github.com/kera-cudmore/Bully-Book-Club#user-experience-ux)
+#### Site Owner Goals
+
+Argoll Logistics would like to attract and retain business and build a bigger online presence.
+
+#### External User Goals
+
+The site user’s are new and returning customers who want to know about the company and the logistic solutions Argoll Logistics can provide via it’s services.
 
 ### User Stories
 
-Add your user stories here. You want to include first time visitors and returning visitors here as a minimum. Think about each group, and the experience and journey you want them to have on your site. It really helps to think about this before you start coding, and will really help with creating your wireframes.
+#### New Customer
+
+As a new customer I want to be able to find out what Argoll is about and what services you offer.
+
+#### Returning Customer
+
+As a returning customer I want to know more about your schedule for all your services.
+
+#### Large B2B Customer
+
+As a customer who is a large company I want to know the history and current statistics of the company to see if you would be able to handle the quantity I want to ship.
 
 ## Design
 
@@ -61,25 +77,28 @@ Add your user stories here. You want to include first time visitors and returnin
 
 ### Colour Scheme
 
-Add all information about your colour scheme for your site here. You can explain why you choose the colours you did?
+![Alt text](Docs/Palette.png "Palette")
 
-I like to include a palette of the colour scheme here, my favourite site for creating a colour palette is [coolors](https://coolors.co/), but there are lots of other sites that also do the same thing, like [ColorSpace](https://mycolor.space/?hex=%23F5F5F5&sub=1), [Muzli Colors](https://colors.muz.li/), [Adobe Colour Wheel](https://color.adobe.com/create/color-wheel) and [Canva](https://www.canva.com/colors/color-palette-generator/) to name a few.
+The colour palette was created using the [Coolors](https://coolors.co/) website.
 
 ### Typography
 
-If you've imported fonts to use in your project, add some information about them here. You can include information like:
+In this project I have imported fonts from [Google Fonts](https://fonts.google.com/). The fonts I choose are as follows.
 
-Why did you choose the font you have?
-Is this an accessibly friendly font?
-What weights have you included?
+1. Montserrat
+2. Hind
+
+* I choose the above fonts as they give the website a professional business feel with clean, crisp and modern look.
+* I have included all variations that available for each font to give me the most versiatility on the website.
+* If you've imported fonts to use in your project, add some information about them here. You can include information like:
+
 
 I also like to include an image of the fonts chosen as a reference.
 
-[Google Fonts](https://fonts.google.com/) is a popular choice for importing fonts to use in your project, as it doesn't require you to download the fonts to use them.
 
 ### Imagery
 
-Use this section to explain what sort of imagery you plan to use through your site.
+All images used on the website are from [Unsplash](https://unsplash.com/) website. I have credit each image aurthor in the [Credits](#credits) Section.
 
 ### Wireframes
 
@@ -119,7 +138,35 @@ Code Institute have an amazing channel for all things accessibility (a11y-access
 
 ## Technologies Used
 
-👩🏻‍💻 View an example of a completed Technologies Used section [here](https://github.com/kera-cudmore/Bully-Book-Club#Technologies-Used)
+### Languages Used
+
+HTML and CSS were used to create this website.
+
+### Frameworks, Libraries & Programs Used
+
+Balsamiq - Used to create wireframes.
+
+Git - For version control.
+
+Github - To save and store the files for the website.
+
+Bootstrap Version 4.6 - The framework for the website. Code for the navigation bar, carousel, cards and form were used and modified. Additional CSS styling was also implemented in style.css.
+
+Google Fonts - To import the fonts used on the website.
+
+Font Awesome - For the iconography on the website.
+
+Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
+
+[Tiny PNG](https://tinypng.com/) To compress images.
+
+[Birme](https://www.birme.net/) To resize images and change to webp format.
+
+[Favicon.io](https://favicon.io/) To create favicon.
+
+[Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
+
+[Shields.io](https://shields.io/) To add badges to the README
 
 ### Languages Used
 
