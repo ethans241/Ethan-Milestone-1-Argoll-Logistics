@@ -73,40 +73,40 @@ As a customer who is a large company I want to know the history and current stat
 
 ## Design
 
-👩🏻‍💻 View an example of a completed design section [here](https://github.com/kera-cudmore/earth-day-hackathon-2022#Design)
-
 ### Colour Scheme
 
 ![Alt text](Docs/Palette.png "Palette")
 
 The colour palette was created using the [Coolors](https://coolors.co/) website.
 
+I chose the above colours to give the website a modern, clean and aestheticly pleasing website with a nice contract to give the user and owner a feeling of confidence that the website is built by a professional.
+
 ### Typography
 
 In this project I have imported fonts from [Google Fonts](https://fonts.google.com/). The fonts I choose are as follows.
 
-1. Montserrat
-2. Hind
+1. [Montserrat](https://fonts.google.com/specimen/Montserrat)
+2. [Hind](https://fonts.google.com/specimen/Hind)
+
+Please note that the above fonts maybe shown in a writing system that is not the Latin writing system. When you click on the link please make sure that the 'writing system' is set to Latin to see the font in English.
 
 * I choose the above fonts as they give the website a professional business feel with clean, crisp and modern look.
 * I have included all variations that available for each font to give me the most versiatility on the website.
-* If you've imported fonts to use in your project, add some information about them here. You can include information like:
-
-
-I also like to include an image of the fonts chosen as a reference.
-
 
 ### Imagery
 
-All images used on the website are from [Unsplash](https://unsplash.com/) website. I have credit each image aurthor in the [Credits](#credits) Section.
+I have used images that convey information through said images. By using these images it allows for a user who may not have industry knowledge to easily be able to use the wesite as they will give the user a well known visiual that will allow them to pick the option that they want and not to get lost within the written information they may not want.
+
+All images used on the website are from [Unsplash](https://unsplash.com/) website. I have credited each image aurthor in the [Credits](#credits) Section.
 
 ### Wireframes
 
-Add the images or links for your wireframes here.
+Please find the wireframe designs for the home, services and contact us pages in mobile, tablet and desktop to show the full responsiveness built in from the start of the project below.
 
-There are lots of different options to create your wireframes - Code Institute students can access [Balsamiq](https://balsamiq.com/) as part of the course.
-
-Some other options include [Figma](https://www.figma.com/), [AdobeXD](https://www.adobe.com/products/xd.html), [Sketch](https://www.sketch.com/?utm_source=google&utm_medium=cpc&adgroup=uxui&device=c&matchtype=e&utm_campaign=ADDICTMOBILE_SKETCH_GAD_DG_UK_T1_ALWAYS-ON_S_TRF_PROS_BRAND&utm_term=sketch&utm_source=google&utm_medium=cpc&utm_content=TOF_BRND__generic&hsa_acc=8710913982&hsa_cam=16831089317&hsa_grp=134620695759&hsa_ad=592060065319&hsa_src=g&hsa_tgt=kwd-14921750&hsa_kw=sketch&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwr4eYBhDrARIsANPywCjRIFn93DMezYnsyE5Fic_8l8kynJtut0GYMU01TiohHjwziFtlH0gaAhteEALw_wcB) and [Mockup](https://apps.apple.com/us/app/mockup-sketch-ui-ux/id1527554407) to name just a few! Or you can even go old school and get those wireframes completed using pen and paper. Just snap an image of the completed wireframes to add the images to the README.
+* [Home Page](Docs/wireframes/home-page/Home-Page.png)
+* [Services Page](Docs/wireframes/service-page/Service-Page.png)
+* [Contact Us Page](Docs/wireframes/contact-page/Contact-Page.png)
+* [Thank You Page](Docs/wireframes/thank-you-page/Thank-You-Page.png)
 
 ## Features
 
