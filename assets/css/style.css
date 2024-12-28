@@ -1,0 +1,20 @@
+/* Imported Google Font */
+<style>@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+</style>
+
+/* CSS Variables */
+:root {
+    --primary-font: "Montserrat", sans-serif;
+    --secondary-font: "Hind", cursive;
+    --primary-color: #000000;
+    --secondary-color: #14213d;
+    --highlight-color: #fca311;
+    --highlight-color-light: #e5e5e5;
+}
+
+/* Gloabl Styles */
+
+/* Nav bar */
+#navbar {
+    background-color: #14213d;
+}
