@@ -3,6 +3,7 @@
 </style>
 
 /* CSS Variables */
+
 :root {
     --primary-font: "Montserrat", sans-serif;
     --secondary-font: "Hind", cursive;
@@ -17,4 +18,34 @@
 /* Nav bar */
 #navbar {
     background-color: #14213d;
+    color: #fca311;
 }
+
+/* Footer / Contact */
+
+#contact {
+    
+    background-color:#14213d;
+    color: #fca311;
+    padding-bottom: 3rem;
+}
+
+#contact h2 {
+    color: #fca311;
+}
+
+
+
+
+#contact .social-links i {
+    color: #fca311;
+    font-size: 1.9rem;
+    -webkit-transition: color 0.3s ease-in-out;
+    -o-transition: color 0.3s ease-in-out;
+    transition: color 0.3s ease-in-out;
+}
+
+#contact .social-links i:hover {
+    color: #e5e5e5;
+}
+
