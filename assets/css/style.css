@@ -14,10 +14,20 @@
 
 /* Gloabl Styles */
 
+h1,
+h2,
+h3 {
+    font: var(--primary-font);
+}
+
+p {
+    font: var(--secondary-font);
+}
+
 /* Nav bar */
 #navbar {
-    background-color: #14213d;
-    color: #fca311;
+    background-color: var(--secondary-color);
+    color: var(--highlight-color);
 }
 
 /* hero */
@@ -30,12 +40,25 @@
     font-size: 60px;
 }
 
+/* about and history */
+
+#about h2 {
+    font-size: 40px;
+}
+
+/* Stats */
+
+#stats h2 {
+    font-size: 40px;
+}
+
+
 /* Footer / Contact */
 
 #contact {
     
-    background-color:#14213d;
-    color: #fca311;
+    background-color: var(--secondary-color);
+    color: var(--highlight-color);
     padding-bottom: 3rem;
 }
 
