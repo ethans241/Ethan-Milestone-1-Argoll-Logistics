@@ -31,8 +31,14 @@ p {
 }
 
 /* hero */
+
+#hero-bg {
+    background-color: var(--highlight-color); 
+}
+
 #hero {
     margin-top: 59.7px;
+    
 }
 
 #hero h1 {
@@ -40,13 +46,42 @@ p {
     font-size: 60px;
 }
 
+/* services section */
+
+#services {
+    margin-top: 2rem;
+}
+
+.card-body {
+    background-color: var(--secondary-color);
+
+}
+
+.card-body a {
+    text-decoration: none;
+    color: var(--highlight-color);
+}
+
+.card-body a:hover {
+    color: var(--highlight-color-light);
+}
+
 /* about and history */
+
+#about {
+    margin-top: 2rem;
+}
 
 #about h2 {
     font-size: 40px;
 }
 
-/* Stats */
+/* Stats section */
+
+#stats {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
 
 #stats h2 {
     font-size: 40px;
