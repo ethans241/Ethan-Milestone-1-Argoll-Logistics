@@ -17,11 +17,11 @@
 h1,
 h2,
 h3 {
-    font: var(--primary-font);
+    font-family: var(--primary-font);
 }
 
 p {
-    font: var(--secondary-font);
+    font-family: var(--secondary-font);
 }
 
 /* Nav bar */
@@ -87,6 +87,29 @@ p {
     font-size: 40px;
 }
 
+/* Service Page */
+
+/* service info section */
+
+#service-info-1 img {
+    margin-right: 16px;
+    margin-bottom: 16px; important
+    margin-left: 0; important
+}
+
+#service-info-1,
+#service-info-2 {
+    margin-top: 20px;
+}
+
+#service-cut-1 {
+    background-color: var(--secondary-color);
+}
+
+#service-cut-2 {
+    background-color: var(--highlight-color);
+}
+
 
 /* Footer / Contact */
 
@@ -100,9 +123,6 @@ p {
 #contact h2 {
     color: #fca311;
 }
-
-
-
 
 #contact .social-links i {
     color: #fca311;
