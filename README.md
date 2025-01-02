@@ -5,7 +5,7 @@ A Static front end website for a Logistic company. This website provides a basic
 
 This website was built to help Argoll Logistics to build a stronger online presence and generate more leads that the company can work with the turn into value generation sales of service.
 
-Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) to get an image of my site on all device sizes, and amiresponsive allows you to click links on the page and scroll, so each device can show a different element of your site.
+![A veiw of the website on multiple devices](Docs/website-view.png)
 
 
 
@@ -127,7 +127,6 @@ What features would you like to implement in the future on your site? Would you 
 
 ### Accessibility
 
-Be an amazing developer and get used to thinking about accessibility in all of your projects!
 
 This is the place to make a note of anything you have done with accessibility in mind. Some examples include:
 
@@ -135,7 +134,6 @@ Have you used icons and added aria-labels to enable screen readers to understand
 Have you ensured your site meets the minimum contrast requirements?
 Have you chosen fonts that are dyslexia/accessible friendly?
 
-Code Institute have an amazing channel for all things accessibility (a11y-accessibility) I would highly recommend joining this channel as it contains a wealth of information about accessibility and what we can do as developers to be more inclusive.
 
 ## Technologies Used
 
@@ -151,7 +149,7 @@ Git - For version control.
 
 Github - To save and store the files for the website.
 
-Bootstrap Version 4.6 - The framework for the website. Code for the navigation bar, carousel, cards and form were used and modified. Additional CSS styling was also implemented in style.css.
+Bootstrap Version 5 - The framework for the website. Code for the navigation bar, carousel, cards and form were used and modified. Additional CSS styling was also implemented in style.css.
 
 Google Fonts - To import the fonts used on the website.
 
@@ -159,7 +157,7 @@ Font Awesome - For the iconography on the website.
 
 Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
 
-[Tiny PNG](https://tinypng.com/) To compress images.
+[Compressor](https://compressor.io/) To compress images.
 
 [Birme](https://www.birme.net/) To resize images and change to webp format.
 
@@ -167,39 +165,41 @@ Google Dev Tools - To troubleshoot and test features, solve issues with responsi
 
 [Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
 
-[Shields.io](https://shields.io/) To add badges to the README
 
 ### Languages Used
 
-Make a note here of all the languages used in creating your project. For the first project this will most likely just be HTML & CSS.
+The languages used in this project is HTML and CSS.
 
-### Frameworks, Libraries & Programs Used
+The site is deployed using GitHub Pages - [Argoll Logistics](https://ethans241.github.io/Ethan-Milestone-1-Argoll-Logistics/).
 
-Add any frameworks, libraries or programs used while creating your project.
+To Deploy the site using GitHub Pages:
 
-Make sure to include things like git, GitHub, the program used to make your wireframes, any programs used to compress your images, did you use a CSS framework like Bootstrap? If so add it here (add the version used).
-
-A great tip for this section is to include them as you use them, that way you won't forget what you ended up using when you get to the end of your project.
-
-## Deployment & Local Development
-
-👩🏻‍💻 View an example of a completed Deployment & Local Development section [here](https://github.com/kera-cudmore/TheQuizArms#Deployment)
-
-### Deployment
-
-Include instructions here on how to deploy your project. For your first project you will most likely be using GitHub Pages.
+1. Login (or signup) to Github.
+2. Go to the repository for this project, [Ethan Skidmore | Argoll Logistics](https://github.com/ethans241/Ethan-Milestone-1-Argoll-Logistics).
+3. Click the settings button.
+4. Select pages in the left hand navigation menu.
+5. From the source dropdown select main branch and press save.
+6. The site has now been deployed, please note that this process may take a few minutes before the site goes live.
 
 ### Local Development
 
-The local development section gives instructions on how someone else could make a copy of your project to play with on their local machine. This section will get more complex in the later projects, and can be a great reference to yourself if you forget how to do this.
-
 #### How to Fork
 
-Place instructions on how to fork your project here.
+To fork the repository:
+
+1. Log in (or sign up) to Github.
+2. Go to the repository for this project, [Ethan Skidmore | Argoll Logistics](https://github.com/ethans241/Ethan-Milestone-1-Argoll-Logistics).
+3. Click the Fork button in the top right corner.
 
 #### How to Clone
 
-Place instructions on how to clone your project here.
+To clone the repository:
+
+1. Log in (or sign up) to GitHub.
+2. Go to the repository for this project, [Ethan Skidmore | Argoll Logistics](https://github.com/ethans241/Ethan-Milestone-1-Argoll-Logistics).
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
 
 ## Testing
 
