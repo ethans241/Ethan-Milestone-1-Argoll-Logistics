@@ -87,6 +87,12 @@ p {
     font-size: 40px;
 }
 
+#stats img {
+    margin-right: 16px;
+    margin-bottom: 16px; important
+    margin-left: 0; important
+}
+
 /* Service Page */
 
 /* service info section */
