@@ -103,18 +103,7 @@ p {
     margin-left: 0; important
 }
 
-#service-info-1,
-#service-info-2 {
-    margin-top: 20px;
-}
 
-#service-cut-1 {
-    background-color: var(--secondary-color);
-}
-
-#service-cut-2 {
-    background-color: var(--highlight-color);
-}
 
 
 /* Footer / Contact */
