@@ -135,6 +135,20 @@ p {
 
 }
 
+#address-card {
+   margin-bottom: 1rem;
+}
+
+#address-card img {
+    height: 303px;
+ }
+
+ /* Thank you page */
+
+ #thank-you {
+    margin-top: 40px;
+ }
+
 
 
 /* Footer / Contact */

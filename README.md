@@ -1,17 +1,14 @@
 
 # Ethan-milestone-1-Argoll-Logistics
 
-Add a Blurb about the site here, what does it do, why did you build it?
+A Static front end website for a Logistic company. This website provides a basic understanding of what the company is about, the history, the services offered and how to contact the company.
+
+This website was built to help Argoll Logistics to build a stronger online presence and generate more leads that the company can work with the turn into value generation sales of service.
 
 Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) to get an image of my site on all device sizes, and amiresponsive allows you to click links on the page and scroll, so each device can show a different element of your site.
 
-Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
 
-If you want to add optional [shields.io](https://shields.io) badges to your README, I like to add them to this section.
 
-<!-- photo credit for contact page hero -->
-Photo by <a href="https://unsplash.com/@charanjeet_dhiman?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Charanjeet Dhiman</a> on <a href="https://unsplash.com/photos/woman-in-black-headphones-holding-black-and-silver-headphones-mHusyBu4bxM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-      
 
 ---
 
