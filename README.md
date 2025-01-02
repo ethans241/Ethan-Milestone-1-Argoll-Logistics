@@ -9,6 +9,10 @@ Add a link to the live site here, for Milestone 1 this will be the GitHub Pages 
 
 If you want to add optional [shields.io](https://shields.io) badges to your README, I like to add them to this section.
 
+<!-- photo credit for contact page hero -->
+Photo by <a href="https://unsplash.com/@charanjeet_dhiman?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Charanjeet Dhiman</a> on <a href="https://unsplash.com/photos/woman-in-black-headphones-holding-black-and-silver-headphones-mHusyBu4bxM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
+
 ---
 
 ## CONTENTS

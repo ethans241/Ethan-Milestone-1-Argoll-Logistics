@@ -24,6 +24,9 @@ p {
     font-family: var(--secondary-font);
 }
 
+
+
+
 /* Nav bar */
 #navbar {
     background-color: var(--secondary-color);
@@ -33,7 +36,8 @@ p {
 /* hero */
 
 #hero-bg {
-    background-color: var(--highlight-color); 
+    background-color: var(--highlight-color);
+    min-width: 100vw;
 }
 
 #hero {
@@ -103,6 +107,33 @@ p {
     margin-left: 0; important
 }
 
+/* contact page */
+
+/* form button */
+
+#form-button {
+    background-color: var(--secondary-color);
+    color: var(--highlight-color);
+    border: none;
+}
+
+#form-button:hover {
+    background-color: var(--highlight-color-light);
+    color: var(--secondary-color);
+}
+
+/* Address section */
+
+#address {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+#address .card-body-address {
+    background-color: var(--secondary-color);
+    color: var(--highlight-color);
+
+}
 
 
 
