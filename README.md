@@ -145,7 +145,69 @@ Hero Image with company name.
 
 The hero image gives a clear understanding to the user as to the company's area of business as well as having logistics in the name of the company.
 
+![hero screenshot from home page](Docs/Readme-images/home-page-hero.png)
 
+Card Section
+
+Card section that is linked to the service page, each card is linked to the section of the service page to give the user a shortcut to the information they need.
+
+![Card section screenshot from home page](Docs/Readme-images/home-page-card-shortcut.png)
+
+About and history Section
+
+The about and histroy section gives the user a small piece of information about the company and it's history. This allows the user to understand the size and length of time the company has been doing business.
+
+![About and history section screenshot from home page](Docs/Readme-images/home-page-about.png)
+
+#### Services Page
+
+Hero Section with Carousel
+
+The hero section on the service page has changed from the home page but still carries the company name but also has the page title to give clear understanding of what page the user is on.
+
+The carousel that has been added to the services page uses the same images from the card section on the home page to give a feeling of continuity to the user.
+
+![Hero screenshoot from services page](Docs/Readme-images/services-page-hero.png)
+
+Services info section
+
+The services infomation section has for 4 seperate section for each type of transport service offered (road, rail, air and sea). Each section has the image from the card section on the home page which is linked to the that section's infomation. Again this is to give the customer a feeling of knowing and continuity.
+
+![services section screenshoot from services page](Docs/Readme-images/services-page-service-info-section.png)
+
+#### Contact us Page
+
+Hero Image with company name and page title
+
+The hero section on the contact page has the same design as the other hero sections on the website but with a different image to give the customer an easy visiual aid as to what page they are on.
+
+![Hero screenshot from contact page](Docs/Readme-images/contact-page-hero.png)
+
+Form Section
+
+The form section of the page give the user the option to request a callback. With information provide will allow the company staff to begin the conversation with the user to start building a business relationship.
+
+![Form screenshot from contact page](Docs/Readme-images/contact-page-form.png)
+
+Office Address Section
+
+The office address section is a basic card layout with all the relevant information for each of the company's offices, this allows the user to also contact their local office.
+
+![Office address screenshot from contact page](Docs/Readme-images/contact-page-office-details.png)
+
+#### Success Page
+
+Hero Image
+
+The hero section on the success page is the same as the contact page as this is only an extension of the contact page form.
+
+![Hero screenshot from the success page](Docs/Readme-images/success-page-hero.png)
+
+Thank You Section
+
+The thank you section on the success page has a small thank you message to let the user know the information in the form has been sent to the company. There is also a button to return to the home page.
+
+![Thank you section screenshot from the success page](Docs/Readme-images/success-page-thank-you.png)
 
 ### Future Implementations
 
