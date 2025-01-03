@@ -139,6 +139,8 @@ The favicon can be seen on the navbar as the link to home on the right hand side
 
 #### Home Page
 
+![Home page on multiple devices](Docs/Readme-images/Argoll-home-devices.png)
+
 The home page contains the following.
 
 Hero Image with company name.
@@ -161,6 +163,10 @@ The about and histroy section gives the user a small piece of information about 
 
 #### Services Page
 
+![Services page on multiple devices](Docs/Readme-images/Argoll-services-devices.png)
+
+The services page contains the following.
+
 Hero Section with Carousel
 
 The hero section on the service page has changed from the home page but still carries the company name but also has the page title to give clear understanding of what page the user is on.
@@ -171,11 +177,15 @@ The carousel that has been added to the services page uses the same images from 
 
 Services info section
 
-The services infomation section has for 4 seperate section for each type of transport service offered (road, rail, air and sea). Each section has the image from the card section on the home page which is linked to the that section's infomation. Again this is to give the customer a feeling of knowing and continuity.
+The services infomation section has a seperate section for each type of transport service offered (road, rail, air and sea). Each section has the image from the card section on the home page which is linked to the that section's infomation. Again this is to give the customer a feeling of knowing and continuity.
 
 ![services section screenshoot from services page](Docs/Readme-images/services-page-service-info-section.png)
 
 #### Contact us Page
+
+![Contact page on multiple devices](Docs/Readme-images/Argoll-contact-devices.png)
+
+The services page contains the following.
 
 Hero Image with company name and page title
 
@@ -196,6 +206,10 @@ The office address section is a basic card layout with all the relevant informat
 ![Office address screenshot from contact page](Docs/Readme-images/contact-page-office-details.png)
 
 #### Success Page
+
+![Success page on multiple devices](Docs/Readme-images/Argoll-thank-you-devices.png)
+
+The success page contains the following.
 
 Hero Image
 

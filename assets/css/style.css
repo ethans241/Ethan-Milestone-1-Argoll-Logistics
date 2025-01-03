@@ -105,11 +105,25 @@ body {
     margin-left: 0; important
 }
 
+.space {
+    padding: 1rem;
+}
+
+.space-li {
+    padding: 15px
+}
+
 /* Service Page */
 
 /* service info section */
 
 #service-info-1 img {
+    margin-right: 16px;
+    margin-bottom: 16px; important
+    margin-left: 0; important
+}
+
+#service-info-2 img {
     margin-right: 16px;
     margin-bottom: 16px; important
     margin-left: 0; important
