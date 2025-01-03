@@ -24,7 +24,9 @@ p {
     font-family: var(--secondary-font);
 }
 
-
+body {
+    min-width: 324px;
+}
 
 
 /* Nav bar */
@@ -56,15 +58,21 @@ p {
     margin-top: 2rem;
 }
 
+
 .card-body {
     background-color: var(--secondary-color);
 
 }
 
-.card-body a {
-    text-decoration: none;
+.card-body h3 {
     color: var(--highlight-color);
 }
+
+#services a {
+    text-decoration: none;
+}
+
+
 
 .card-body a:hover {
     color: var(--highlight-color-light);
