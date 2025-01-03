@@ -211,17 +211,21 @@ The thank you section on the success page has a small thank you message to let t
 
 ### Future Implementations
 
-What features would you like to implement in the future on your site? Would you like to add more pages, or create login functionality? Add these plans here.
+I would like to add a schedule page to give the user important information about how long it takes for their deliveries to get to certain countries. I would do this by building a form that once complete would pull information from a database and only show the relevant data to the user.
+
+I would also like to add a map with pins on it to show the offices locations in an easy to understand format on the contact page.
 
 ### Accessibility
 
+I have used icons and added aria-labels on the footer for the social media links, I also added aria-label to the logo on the navbar. This allows screen readers to understand what the icons are for.
 
-This is the place to make a note of anything you have done with accessibility in mind. Some examples include:
+Contrast checker For colour scheme used
 
-Have you used icons and added aria-labels to enable screen readers to understand these?
-Have you ensured your site meets the minimum contrast requirements?
-Have you chosen fonts that are dyslexia/accessible friendly?
+![Contrast checker for #14213d and #fca311](Docs/Readme-images/contrast-checker-1.png)
 
+![Contrast checker for #14213d and #ffffff](Docs/Readme-images/contrast-checker-2.png)
+
+![Contrast checker for #14213d and #e5e5e5](Docs/Readme-images/contrast-checker-3.png)
 
 ## Technologies Used
 
@@ -291,9 +295,7 @@ To clone the repository:
 
 ## Testing
 
-Start as you mean to go on - and get used to writing a TESTING.md file from the very first project!
-
-Testing requirements aren't massive for your first project, however if you start using a TESTING.md file from your first project you will thank yourself later when completing your later projects, which will contain much more information.
+[Testing Documentation](Docs/testing/testing.md)
   
 Use this part of the README to link to your TESTING.md file - you can view the example TESTING.md file [here](milestone1-testing.md)
 
