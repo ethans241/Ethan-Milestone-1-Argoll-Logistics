@@ -5,7 +5,7 @@ A Static front end website for a Logistic company. This website provides a basic
 
 This website was built to help Argoll Logistics to build a stronger online presence and generate more leads that the company can work with the turn into value generation sales of service.
 
-![A veiw of the website on multiple devices](Docs/website-view.png)
+![A view of the website on multiple devices](Docs/Readme-images/website-view.png)
 
 
 
@@ -76,7 +76,7 @@ As a customer who is a large company I want to know the history and current stat
 
 ### Colour Scheme
 
-![Alt text](Docs/Palette.png "Palette")
+![Colour Scheme](Docs/Readme-images/Palette.png "Palette")
 
 The colour palette was created using the [Coolors](https://coolors.co/) website.
 
@@ -111,15 +111,41 @@ Please find the wireframe designs for the home, services and contact us pages in
 
 ## Features
 
-👩🏻‍💻 View an example of a completed user experience section [here](https://github.com/kera-cudmore/TheQuizArms#Features)
+The Website consists of 4 pages, the website has a home page, services page, contact and success page.
 
-This section can be used to explain what pages your site is made up of.
+As this is the first deployment of the website I wanted to make sure that it contained all the important information to allow the user to understand and hopefully send through their information to begin building a business relationship.
+
+All four pages contain the following features.
+
+#### Navigation
+
+The Navigation bar is one of the main features which allows the user to navigate through the website with ease. The navbar is fully connected to all pages on the website.
+
+![Navbar screenshot from website](Docs/Readme-images/Navbar.png)
+
+#### Footer
+
+The footer is another feature which seen on all pages. The footer hold important information for user such as the address, social links and quick contact details, this information makes it easier for the user to contact us without having to use the contact page.
+
+![Footer screenshot from website](Docs/Readme-images/Footer.png)
+
+#### Favicon
+
+The favicon can be seen on the navbar as the link to home on the right hand side and also on the tab are of the web browser, this give the website a small but important change which gives the user the feeling that the website was built professionaly.
+
+![Favicon screenshot from website](Docs/Readme-images/favicon.png)
 
 ### General features on each page
 
-If there is a feature that appears on all pages of your site, include it here. Examples of what to include would the the navigation, a footer and a favicon.
+#### Home Page
 
-I then like to add a screenshot of each page of the site here, i use [amiresponsive](https://ui.dev/amiresponsive) which allows me to grab an image of the site as it would be displayed on mobile, tablet and desktop, this helps to show the responsiveness of the site.
+The home page contains the following.
+
+Hero Image with company name.
+
+The hero image gives a clear understanding to the user as to the company's area of business as well as having logistics in the name of the company.
+
+
 
 ### Future Implementations
 
