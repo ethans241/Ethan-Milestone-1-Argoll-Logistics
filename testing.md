@@ -30,12 +30,12 @@ I have gone through each page using google chrome developer tools to ensure that
 
 [W3C](https://validator.w3.org/) was used to validate the HTML on all pages of the website. It was also used to validate the CSS.
 
-* [index.html](testing/w3/w3-index.png) - Passed.
-* [services.html](testing/w3/w3-game.png) - 
-* [contact.html](testing/w3/w3-highscores.png) - Passed.
-* [success.html](testing/w3/w3-500.png) - Passed.
+* [index.html](Docs/testing/W3C-index.png) - Passed.
+* [services.html](Docs/testing/W3C-services.png) - Passed.
+* [contact.html](Docs/testing/W3C-contact.png) - Passed.
+* [success.html](Docs/testing/W3C-success.png) - Passed.
 
-* [style.css](testing/w3/w3-css.png) - Passed, no errors found.
+* [style.css](Docs/testing/CSS-style.png) - Passed, no errors found.
 
 - - -
 
@@ -45,30 +45,30 @@ I used Lighthouse within the Chrome Developer Tools to test the performance, acc
 
 ### Desktop Results
 
-All pages of the site are achieving a score of 100 across the 4 categories.
+All pages of the site are achieving a score of 93 or better across the 4 categories.
 
-![index.html]()
+![index.html](Docs/testing/cdt-index-desktop.png)
 
-![services.html]()
+![services.html](Docs/testing/cdt-services-desktop.png)
 
-![contact.html]()
+![contact.html](Docs/testing/cdt-contact-desktop.png)
 
-![success.html]()
+![success.html](Docs/testing/cdt-success-desktop.png)
 
 
 ### Mobile Results
 
-Each page is achieving a score of 100 for the last three categories. The performance category is achieving a score of 98 for the first three pages and a score of 99 on the 404 & 500 page.
+All pages of the site on mobile devices are achieving a score of 91 or better across the 4 categories.
 
-![index.html](testing/lighthouse/lighthouse-mobile-index.webp)
+![index.html](Docs/testing/cdt-index-mobile.png)
 
-![game.html](testing/lighthouse/lighthouse-mobile-game.webp)
+![services.html](Docs/testing/cdt-services-mobile.png)
 
-![highscores.html](testing/lighthouse/lighthouse-mobile-highscores.webp)
+![contact.html](Docs/testing/cdt-contact-mobile.png)
 
-![404.html](testing/lighthouse/lighthouse-mobile-404.webp)
+![success.html](Docs/testing/cdt-success-mobile.png)
 
-![500.html](testing/lighthouse/lighthouse-mobile-500.png)
+
 
 - - -
 

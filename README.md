@@ -60,6 +60,26 @@ The site user’s are new and returning customers who want to know about the com
 
 ### User Stories
 
+`First Time Visitors`
+
+| Goals |
+| :--- |
+| I want to take part in a pub quiz online and improve my general knowledge. I want to be able to play at any time, anywhere. | The Quiz Arms pulls general knowledge quiz questions from a large variety of topics, much like a pub quiz would do. The site is available for use whenever is convenient to the user. |
+| I want the site to be responsive to my device. | I have developed the site with responsiveness in mind. |
+| I want the site to be easy to navigate. | Buttons are used throughout the site for navigation, much like a mobile app. As the site is like a mobile app - I decided that I didn't want to add a navigation bar or footer, as these would make the site look more like a traditional webpage. The page title also acts as a link to the home page.  |
+
+`Returning Visitors`
+
+|  Goals | 
+| :--- | 
+| I want to be able to choose a level of difficulty that I feel is appropriate for me, based on my experience from my first visit to the site. |
+
+`Frequent Visitors`
+
+| Goals |
+| :--- | 
+| I want to be able to adjust the difficulty level to keep improving my knowledge. | Users are able to select their own level of difficulty before the game begins. Once they have played they are free to select a different level of difficulty for subsequent games. |
+
 #### New Customer
 
 As a new customer I want to be able to find out what Argoll is about and what services you offer.
