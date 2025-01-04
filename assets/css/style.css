@@ -157,11 +157,11 @@ body {
 
 }
 
-#address-card {
+.address-card {
    margin-bottom: 1rem;
 }
 
-#address-card img {
+.address-card img {
     height: 303px;
  }
 
