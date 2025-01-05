@@ -60,37 +60,27 @@ The site user’s are new and returning customers who want to know about the com
 
 ### User Stories
 
-`First Time Visitors`
+`First Time Customer`
 
 | Goals |
 | :--- |
-| I want to take part in a pub quiz online and improve my general knowledge. I want to be able to play at any time, anywhere. | The Quiz Arms pulls general knowledge quiz questions from a large variety of topics, much like a pub quiz would do. The site is available for use whenever is convenient to the user. |
-| I want the site to be responsive to my device. | I have developed the site with responsiveness in mind. |
-| I want the site to be easy to navigate. | Buttons are used throughout the site for navigation, much like a mobile app. As the site is like a mobile app - I decided that I didn't want to add a navigation bar or footer, as these would make the site look more like a traditional webpage. The page title also acts as a link to the home page.  |
+| As a new customer I want to be able to find out more about Argoll Logistics. |
+| As a new customer I want to be able to easily navigate the website. |
+| As a new customer I want to be able to easily find the contact details|
+| As a new customer I want to find out what services Argoll Logistics offers. |
 
-`Returning Visitors`
+`Returning Customer`
 
 |  Goals | 
 | :--- | 
-| I want to be able to choose a level of difficulty that I feel is appropriate for me, based on my experience from my first visit to the site. |
+| As a returning customer I want to know more about your schedule for all your services. |
+| As a returning customer I want to be able to find the details of my local office and their contact details. |
 
-`Frequent Visitors`
+`Larger Customer`
 
 | Goals |
 | :--- | 
-| I want to be able to adjust the difficulty level to keep improving my knowledge. | Users are able to select their own level of difficulty before the game begins. Once they have played they are free to select a different level of difficulty for subsequent games. |
-
-#### New Customer
-
-As a new customer I want to be able to find out what Argoll is about and what services you offer.
-
-#### Returning Customer
-
-As a returning customer I want to know more about your schedule for all your services.
-
-#### Large B2B Customer
-
-As a customer who is a large company I want to know the history and current statistics of the company to see if you would be able to handle the quantity I want to ship.
+| As a customer who is a large company I want to know the history and current statistics of the company to see if you would be able to handle the quantity I want to ship. |
 
 ## Design
 
@@ -329,7 +319,7 @@ To clone the repository:
 
 ## Testing
 
-[Testing Documentation](Docs/testing/testing.md)
+[Testing Documentation](testing.md)
   
 Use this part of the README to link to your TESTING.md file - you can view the example TESTING.md file [here](milestone1-testing.md)
 
@@ -339,18 +329,52 @@ Use this part of the README to link to your TESTING.md file - you can view the e
 
 The Credits section is where you can credit all the people and sources you used throughout your project.
 
-### Code Used
-
-If you have used some code in your project that you didn't write, this is the place to make note of it. Credit the author of the code and if possible a link to where you found the code. You could also add in a brief description of what the code does, or what you are using it for here.
-
 ### Content
 
-Who wrote the content for the website? Was it yourself - or have you made the site for someone and they specified what the site was to say? This is the best place to put this information.
+The information was taken from two logistics websites.
+
+The about and history section was taken from [Owens-Group]{https://www.owensgroup.uk/about}. The reason for using this contant on my website is that Argoll Logistics is a fictional company and this website will never be used by a real business.
+
+The information on the services page was taken from [Inbound-Logistics](https://www.inboundlogistics.com/article/transportation-in-logistics/). I used this content as this information is general knowledge and would not come under copyright law and as explained in the above parapgraph this is a fictional company. 
 
 ###  Media
 
-If you have used any media on your site (images, audio, video etc) you can credit them here. I like to link back to the source where I found the media, and include where on the site the image is used.
+Hero image - Photo by [Elevate](https://unsplash.com/photos/yellow-and-black-forklift-during-daytime-dI-aXC7DWpQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+Road image - Photo by [Nigel Tadyanehondo](https://unsplash.com/photos/aerial-photography-of-freight-truck-lot-GOD2mDNujuU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+Rail image - Photo by [Albert Stoynov](https://unsplash.com/photos/a-black-and-white-photo-of-a-train-yard-DJOa90oJ_sE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) 
+
+Air Image - Photo by [Irakli Pichkhaia](https://unsplash.com/photos/a-large-jetliner-sitting-on-top-of-an-airport-tarmac-6KN4gjpsrPQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+Sea Image - Photo by [Mika Baumeister](https://unsplash.com/photos/a-large-cargo-ship-loaded-with-lots-of-containers-WqZwkrBuZIE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+About Image - Photo by [Point3D Commercial Imaging Ltd.](https://unsplash.com/photos/an-aerial-view-of-a-large-building-xd4dqv1n2pk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+Stats Image - Photo by [Annie Spratt](https://unsplash.com/photos/selective-focus-photography-of-people-sits-in-front-of-table-inside-room-sggw4-qDD54?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+Contact Image - Photo by [Charanjeet Dhiman](https://unsplash.com/photos/woman-in-black-headphones-holding-black-and-silver-headphones-mHusyBu4bxM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+Cardiff Image - Photo by [Nastuh Abootalebi](https://unsplash.com/photos/hallway-between-glass-panel-doors-yWwob8kwOCk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+London Image - Photo by [Nastuh Abootalebi](https://unsplash.com/photos/photo-of-dining-table-and-chairs-inside-room-eHD8Y1Znfpk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+New York - Photo by [LYCS Architecture](https://unsplash.com/photos/man-and-woman-sitting-on-table-U2BI3GMnSSE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+San Diego - Photo by [Redd Francisco](https://unsplash.com/photos/people-sitting-on-chair-5U_28ojjgms?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+Joburg - Photo by [Arlington Research](https://unsplash.com/photos/man-sitting-in-front-of-table-Kz8nHVg_tGI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+Sydney - Photo by [Arlington Research](https://unsplash.com/photos/man-sitting-in-front-of-table-Kz8nHVg_tGI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
   
 ###  Acknowledgments
 
-If someone helped you out during your project, you can acknowledge them here! For example someone may have taken the time to help you on slack with a problem. Pop a little thank you here with a note of what they helped you with (I like to try and link back to their GitHub or Linked In account too). This is also a great place to thank your mentor and tutor support if you used them.
+I would like to thank the following for the help they have given me on the project.
+
+My mentor gramme for the helping with the solid advise and make sure I am on the right track for this project.
+
+Kera Cudmore for the brilliant [document](https://github.com/kera-cudmore/readme-examples) that help me build this very document and without such help I would not have been able to build such a great readme and testing document.
+
+I would also like to thank code institute for the outstanding course documentation which helped me when I was stuck and able to go back over to give my mind a refresh.
+
+Last but not least I would like to thank the coding community on slack and other forums which give me a answers to many issue while working on this project that I may not have been able to pass without their knowledge.

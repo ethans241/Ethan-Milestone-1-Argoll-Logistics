@@ -76,26 +76,27 @@ All pages of the site on mobile devices are achieving a score of 91 or better ac
 
 ### Testing User Stories
 
-`First Time Visitors`
+`First Time Customer`
 
-| Goals | How are they achieved? |
+| Goals | Actions |
 | :--- | :--- |
-| I want to take part in a pub quiz online and improve my general knowledge. I want to be able to play at any time, anywhere. | The Quiz Arms pulls general knowledge quiz questions from a large variety of topics, much like a pub quiz would do. The site is available for use whenever is convenient to the user. |
-| I want the site to be responsive to my device. | I have developed the site with responsiveness in mind. |
-| I want the site to be easy to navigate. | Buttons are used throughout the site for navigation, much like a mobile app. As the site is like a mobile app - I decided that I didn't want to add a navigation bar or footer, as these would make the site look more like a traditional webpage. The page title also acts as a link to the home page.  |
+| As a new customer I want to be able to find out more about Argoll Logistics. | I placed an about/history section on the home page. |
+| As a new customer I want to be able to easily navigate the website. | I added a navigation bar to all pages that gives the user an easy way to navigate the website. |
+| As a new customer I want to be able to easily find the contact details. | I added a footer with basic contact details for the company. |
+| As a new customer I want to find out what services Argoll Logistics offers. | I added a card section with the four services that Argoll Logistics offers. These card are linked to the services page and takes the customer to the section of information they need. |
 
-`Returning Visitors`
+`Returning Customer`
 
-|  Goals | How are they achieved? |
-| :--- | :--- |
-| I want to be able to choose a level of difficulty that I feel is appropriate for me, based on my experience from my first visit to the site. | Users are able to select their own level of difficulty before the game begins. Once they have played they are free to select a different level of difficulty for subsequent games. |
+| Goals | Actions |
+| :--- | :--- | 
+| As a returning customer I want to know more about your schedule for all your services. | Sadly I was unable to add this feature but it is not necessary for the deployment of the website. This will be added in a future deployment. |
+| As a returning customer I want to be able to find the details of my local office and their contact details. | I added a card section on the contact page with local office contact details to give the user the option to contact their local office. |
 
-`Frequent Visitors`
+`Larger Customer`
 
-| Goals | How are they achieved? |
-| :--- | :--- |
-| I want to be able to adjust the difficulty level to keep improving my knowledge. | Users are able to select their own level of difficulty before the game begins. Once they have played they are free to select a different level of difficulty for subsequent games. |
-| I want to be able to log my high scores to see how I am performing. | Users of the site are able to log their high scores to the high scores page. The top ten results will be displayed. |
+| Goals | Actions |
+| :--- | :--- | 
+| As a customer who is a large company I want to know the history and current statistics of the company to see if you would be able to handle the quantity I want to ship. | I added a statistics section on the home screen to show users that argoll logistics can deal with any and all requirements a user may have. |
 
 - - -
 
@@ -105,6 +106,8 @@ Real World testing was performed on the following devices:
 
 * Laptop:
   * Macbook Air M2 2022 14 inch screen
+* Tablet
+  * iPad Pro
 * Mobile Devices:
   * iPhone 13 Pro Max.
   
