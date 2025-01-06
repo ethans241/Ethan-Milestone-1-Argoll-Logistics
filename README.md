@@ -371,7 +371,7 @@ Sydney - Photo by [Arlington Research](https://unsplash.com/photos/man-sitting-i
 
 I would like to thank the following for the help they have given me on the project.
 
-My mentor gramme for the helping with the solid advise and make sure I am on the right track for this project.
+My mentor Graeme for the helping with the solid advise and make sure I am on the right track for this project.
 
 Kera Cudmore for the brilliant [document](https://github.com/kera-cudmore/readme-examples) that help me build this very document and without such help I would not have been able to build such a great readme and testing document.
 
