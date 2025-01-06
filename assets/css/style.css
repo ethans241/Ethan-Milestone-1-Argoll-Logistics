@@ -99,11 +99,6 @@ body {
     font-size: 40px;
 }
 
-#stats img {
-    margin-right: 16px;
-    margin-bottom: 16px;
-}
-
 .space {
     padding: 1rem;
 }
@@ -193,5 +188,16 @@ body {
 
 #contact .social-links i:hover {
     color: #e5e5e5;
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+}
+
+.social-links a {
+    padding-bottom: 5px;
 }
 
