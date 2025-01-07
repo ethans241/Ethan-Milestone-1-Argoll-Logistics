@@ -72,6 +72,10 @@ body {
     text-decoration: none;
 }
 
+#services-card {
+    padding-bottom: 20px;
+}
+
 
 
 .card-body a:hover {
@@ -99,27 +103,25 @@ body {
     font-size: 40px;
 }
 
-.space {
-    padding: 1rem;
-}
-
 .space-li {
-    padding: 15px
+    border-style:none;
 }
 
 /* Service Page */
 
+/* hero image */
+
+.carousel-img {
+    height: fit-content;
+}
+
 /* service info section */
 
-#service-info-1 img {
-    margin-right: 16px;
-    margin-bottom: 16px;
+.service-img-left {
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
 
-#service-info-2 img {
-    margin-right: 16px;
-    margin-bottom: 16px; 
-}
 
 /* contact page */
 
@@ -152,10 +154,6 @@ body {
 .address-card {
    margin-bottom: 1rem;
 }
-
-.address-card img {
-    height: 303px;
- }
 
  /* Thank you page */
 
@@ -201,3 +199,48 @@ body {
     padding-bottom: 5px;
 }
 
+/* Media Quaries */
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .about-para {
+        padding-bottom: 43.50px;
+        padding-top: 43.50px;
+    }
+
+    .space-li {
+        padding-bottom:0;
+        padding-top:0;
+    }
+}
+
+/* Large Devices (small laptops, 992px and above) */
+@media screen and (min-width: 992px) {
+    .about-para{
+    padding-bottom: 0px;
+    padding-top: 0px;
+    }
+    .space-li {
+        padding: 15px;
+    }
+}
+
+/* X-Large Devices (XL screens, 1440px and above) */
+
+@media screen and (min-width: 1440px) {
+    /* Make about and stats section the same height for consistancy */
+    .about-para {
+        padding-top: 126.30px;
+        padding-bottom: 126.30px;
+        font-size: larger;
+    }
+    }
+
+ /* XX-Large devices (larger desktops, 1400px and up) */
+    @media screen and (min-width: 1400px) {
+        .about-para {
+            padding-top: 130.91px;
+            padding-bottom: 130.91px;
+            font-size: larger;
+        }
+    }

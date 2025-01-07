@@ -51,27 +51,27 @@
         <!-- Carousel -->
 
         <section id="hero-bg">
-            <div id="hero" class="container">
+            <div id="hero" class="container-fluid hero-bgc">
                 <div class="row align-items-center">
                     <div class="col-12 col-lg-4">
                         <h1 class="text-center">Argoll Logistics</h1>
                         <hr>
                         <h1 class="text-center">Services</h1>
                     </div>
-                    <div id="carouselExampleAutoplaying" class="carousel slide col-12 col-lg-8 hero-image"
+                    <div id="carouselExampleAutoplaying" class="carousel slide col-12 col-lg-8 hero-image hero-bgc"
                         data-bs-ride="carousel">
-                        <div class="carousel-inner">
+                        <div class="carousel-inner hero-bgc">
                             <div class="carousel-item active">
-                                <img src="assets/images/Road-Image-min.webp" class="d-block w-100" alt="">
+                                <img src="assets/images/road-c-img.jpg" class="d-block w-100" alt="Lorries parked in a service stop.">
                             </div>
                             <div class="carousel-item">
-                                <img src="assets/images/Rail-Image-min.webp" class="d-block w-100" alt="...">
+                                <img src="assets/images/rail-c-img.jpg" class="d-block w-100" alt="Cargo trains parked in a train yard.">
                             </div>
                             <div class="carousel-item">
-                                <img src="assets/images/Air-Image-min.webp" class="d-block w-100" alt="...">
+                                <img src="assets/images/air-c-img.jpg" class="d-block w-100" alt="A parked airplane.">
                             </div>
                             <div class="carousel-item">
-                                <img src="assets/images/Sea-Image-min.webp" class="d-block w-100" alt="...">
+                                <img src="assets/images/sea-c-img.jpg" class="d-block w-100" alt="A container ship at a dock.">
                             </div>
                         </div>
                         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying"
@@ -92,15 +92,17 @@
         <br>
 
         <!-- service info section -->
+
+        <!-- road section -->
         <section id="road-section">
-            <div id="service-info-1" class="container">
+            <div class="container-fluid">
                 <div class="row justify-content-center">
                     <div class="col-12 col-lg-4">
                         <h3 class="text-center">Road</h3>
-                    </div>
                     <div class="clearfix">
-                        <img src="assets/images/Road-Image-min.webp" class="col-md-6 float-md-start img-fluid"
-                            alt="...">
+                        <img src="assets/images/road-c-img.jpg" class="col-md-6 float-md-start img-fluid service-img-left"
+                            alt="Lorries parked in a service stop.">
+                            <div>
                         <p class="text-start text-md-start">
                             Road transportation, primarily involving trucks, has been a cornerstone in the logistics
                             industry for decades. Trucks became the most versatile solution as direct routes became
@@ -134,23 +136,23 @@
                             <strong>Best for Goods:</strong> Road transportation is ideal for agricultural produce,
                             finished products for retail, and any cargo that requires a direct route to its destination.
                         </p>
-
                     </div>
                 </div>
             </div>
         </section>
 
-        <hr class="container col-12">
+        <hr class="container-fluid col-12">
 
+        <!-- rail section -->
         <section id="rail-section">
-            <div class="container">
+            <div class="container-fluid">
                 <div class="row justify-content-center">
                     <div class="col-12 col-lg-4">
                         <h3 class="text-center">Rail</h3>
                     </div>
                     <div class="clearfix">
-                        <img src="assets/images/Rail-Image-min.webp"
-                            class="col-md-6 float-md-end mb-3 ms-md-3 img-fluid" alt="...">
+                        <img src="assets/images/rail-c-img.jpg"
+                            class="col-md-6 float-md-end mb-3 ms-md-3 img-fluid" alt="Cargo trains parked in a train yard.">
                         <p>
                             From steam-powered locomotives of the 19th century to today’s electrified extensive rail
                             networks, rail transport has consistently evolved to address the needs of an ever-growing
@@ -198,16 +200,17 @@
             </div>
         </section>
 
-        <hr class="container col-12">
+        <hr class="container-fluid col-12">
 
+        <!-- air section -->
         <section id="air-section">
-            <div id="service-info-2" class="container">
+            <div class="container-fluid">
                 <div class="row justify-content-center services-p-s">
                     <div class="col-12 col-lg-4">
                         <h3 class="text-center">Air</h3>
                     </div>
                     <div class="clearfix">
-                        <img src="assets/images/Air-Image-min.webp" class="col-md-6 float-md-start img-fluid" alt="...">
+                        <img src="assets/images/air-c-img.jpg" class="col-md-6 float-md-start img-fluid service-img-left" alt="A parked airplane.">
 
                         <p class="text-start text-md-start">
                             Air transportation revolutionized the logistics industry in the 20th century. Initially
@@ -255,17 +258,18 @@
             </div>
         </section>
 
-        <hr class="container col-12">
+        <hr class="container-fluid col-12">
 
+        <!-- sea section -->
         <section id="sea-section">
-            <div class="container services-p-s">
+            <div class="container-fluid services-p-s">
                 <div class="row justify-content-center">
                     <div class="col-12 col-lg-4">
                         <h3 class="text-center">Sea</h3>
                     </div>
                     <div class="clearfix">
-                        <img src="assets/images/Sea-Image-min.webp" class="col-md-6 float-md-end mb-3 ms-md-3 img-fluid"
-                            alt="...">
+                        <img src="assets/images/sea-c-img.jpg" class="col-md-6 float-md-end mb-3 ms-md-3 img-fluid"
+                            alt="A container ship at a dock.">
                         <p>
                             Maritime transport has roots stretching back millennia and has always been the backbone of
                             global trade. From ancient wooden ships carrying spices to the colossal container ships of
@@ -314,12 +318,10 @@
 
     </main>
 
-
-
     <!-- Footer -->
     <!-- mt-auto added to push footer to the bottom of the page -->
-    <footer id="contact" class="mt-auto">
-        <div class="container section">
+    <footer id="contact" class="container-fluid">
+        <div class="container-fluid section">
             <div class="row justify-content-center text-center">
                 <div class="col-12 text-center my-3">
                     <h3>Useful Info</h3>

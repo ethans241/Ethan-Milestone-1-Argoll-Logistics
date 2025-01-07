@@ -365,7 +365,7 @@ San Diego - Photo by [Redd Francisco](https://unsplash.com/photos/people-sitting
 
 Joburg - Photo by [Arlington Research](https://unsplash.com/photos/man-sitting-in-front-of-table-Kz8nHVg_tGI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
-Sydney - Photo by [Arlington Research](https://unsplash.com/photos/man-sitting-in-front-of-table-Kz8nHVg_tGI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+Sydney - Photo by [Arlington Research](https://unsplash.com/photos/unknown-persons-using-computer-indoors-nFLmPAf9dVc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
   
 ###  Acknowledgments
 
