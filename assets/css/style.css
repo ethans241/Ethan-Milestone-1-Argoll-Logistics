@@ -161,7 +161,19 @@ body {
     margin-top: 40px;
  }
 
+/* 404 page */
 
+/* Modal styling */
+
+.modal-css {
+    background-color: var(--secondary-color);
+}
+
+.modal-button {
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+}
 
 /* Footer / Contact */
 
