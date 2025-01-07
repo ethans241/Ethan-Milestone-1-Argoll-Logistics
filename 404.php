@@ -21,45 +21,21 @@
 </head>
 
 <body>
-    <!-- Nav-Bar -->
-    <nav id="navbar" class="navbar navbar-expand-lg fixed-top" data-bs-theme="dark">
-        <div class=" container-fluid">
-            <a class="navbar-brand" href="index.html"><img src="assets/images/favicon-32x32.png"
-                    alt="Argoll Logistics logo" class="logo"></a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ms-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="index.html">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="services.html">Services</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Contact</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
 
     <main>
 
         <!-- hero section-->
         <section id="hero-bg">
-            <div id="hero" class="container">
-                <div class="row align-items-center">
-                    <div class="col-12 col-lg-4">
-                        <h1 class="text-center">Argoll Logistics</h1>
-                        <hr>
-                    </div>
-                    <div class="col-12 col-lg-8">
-                        <img src="assets/images/contact-image.webp" alt="call center workers answering the phone"
-                            class="img-fluid hero-image mx-auto d-block">
-                    </div>
+            <div class="container">
+                <div class="row align-items-center"> 
+                        <div class="col-12 col-lg-4">
+                            <h1 class="text-center">Argoll Logistics</h1>
+                            <hr>
+                        </div>
+                        <div class="col-12 col-lg-8">
+                            <img src="assets/images/404-page-image.webp" alt="door with the number 404"
+                                class="img-fluid hero-image mx-auto d-block">
+                        </div>
                 </div>
             </div>
         </section>
@@ -68,18 +44,46 @@
             <div id="thank-you" class="container">
                 <div class="row justify-content-center">
                     <div class="col-12">
-                        <h1 class="text-center">Thank You</h1>
+                        <h1 class="text-center">WhOooops!</h1>
                     </div>
                     <div class="col-12">
-                        <p class="text-center">Thank you for requesting a callback, our enquiries team will be in
-                            contact with you within the next 24 hours.</p>
+                        <p class="text-center">it looks like no one is here to accept your delivery.</p>
                     </div>
-                    <div class="col-12 text-center">
+                    <!-- <div class="col-12 text-center">
                         <a href="index.html" class="btn btn-primary mb-4 text-center btn-lg" id="form-button">Return To
-                            Home</a>
-                    </div>
-                </div>
-            </div>
+                            Sender</a>
+                    </div> -->
+
+                    <div class="col-12 text-center">
+                        <!-- Button trigger modal -->
+                        <button type="button" class="btn btn-primary mb-4 text-center btn-lg" id="form-button"
+                            data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                            Return To Sender
+                        </button>
+
+                        <!-- Modal -->
+                        <div class="modal fade modal-css" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false"
+                            tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h1 class="modal-title fs-5" id="staticBackdropLabel">Before we delivery you
+                                            back to the home page how about a little fact.</h1>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="container-fluid">
+                                            <div class="row">
+                                                <p>Did you know over 1 billion packages are either stolen or lost globally each year.</p>
+                                                <p>but you're not one of them.</p>
+                                            </div>
+                                            <div class="modal-footer modal-button">
+                                                <a class="btn btn-primary" id="form-button" href="index.html" role="button">Home Sweet Home</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
         </section>
 
     </main>
