@@ -235,6 +235,9 @@ body {
     .space-li {
         padding: 15px;
     }
+    .road-section-w {
+        width: 100%;
+    }
 }
 
 /* X-Large Devices (XL screens, 1440px and above) */
