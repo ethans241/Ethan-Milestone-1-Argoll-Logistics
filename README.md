@@ -271,19 +271,17 @@ On the main section I continued the fun twist with a little comment to give the 
 
 ![404 main section screenshot](docs/readme-images/404-main-section.png)
 
-Modal after button is clicked
-
-Once the user clicks the button the modal will pop up and give the user a nice little fact and they can then press the button on the modal to return to the home screen.
-
-![404 modal screenshot](docs/readme-images/404-modal.png)
-
 Footer
 
 I kept the footer that is on all other pages of the website to give the user a visual prompt that they are still on the website but the the page they are looking for is no longer available.
 
 ![404 main section screenshot](docs/readme-images/404-footer-section.png)
 
+Modal after button is clicked
 
+Once the user clicks the button the modal will pop up and give the user a nice little fact and they can then press the button on the modal to return to the home screen.
+
+![404 modal screenshot](docs/readme-images/404-modal.png)
 
 ### Future Implementations
 
