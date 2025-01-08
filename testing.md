@@ -34,9 +34,9 @@ I have gone through each page using google chrome developer tools to ensure that
 * [services.html](docs/testing/w3c-services.png) - Passed.
 * [contact.html](docs/testing/w3c-contact.png) - Passed.
 * [success.html](docs/testing/w3c-success.png) - Passed.
-* [404.html]()
+* [404.html](docs/testing/w3c-404.png) - Passed.
 
-* [style.css](Docs/testing/CSS-style.png) - Passed, no errors found.
+* [style.css](docs/testing/css-style.png) - Passed, no errors found.
 
 - - -
 
@@ -48,26 +48,30 @@ I used Lighthouse within the Chrome Developer Tools to test the performance, acc
 
 All pages of the site are achieving a score of 93 or better across the 4 categories.
 
-![index.html](Docs/testing/cdt-index-desktop.png)
+![index.html](docs/testing/cdt-index-desktop.png)
 
-![services.html](Docs/testing/cdt-services-desktop.png)
+![services.html](docs/testing/cdt-services-desktop.png)
 
-![contact.html](Docs/testing/cdt-contact-desktop.png)
+![contact.html](docs/testing/cdt-contact-desktop.png)
 
-![success.html](Docs/testing/cdt-success-desktop.png)
+![success.html](docs/testing/cdt-success-desktop.png)
+
+![404.html](docs/testing/cdt-404-desktop.png)
 
 
 ### Mobile Results
 
 All pages of the site on mobile devices are achieving a score of 91 or better across the 4 categories.
 
-![index.html](Docs/testing/cdt-index-mobile.png)
+![index.html](docs/testing/cdt-index-mobile.png)
 
-![services.html](Docs/testing/cdt-services-mobile.png)
+![services.html](docs/testing/cdt-services-mobile.png)
 
-![contact.html](Docs/testing/cdt-contact-mobile.png)
+![contact.html](docs/testing/cdt-contact-mobile.png)
 
-![success.html](Docs/testing/cdt-success-mobile.png)
+![success.html](docs/testing/cdt-success-mobile.png)
+
+![404.html](docs/testing/cdt-404-mobile.png)
 
 
 
