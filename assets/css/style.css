@@ -52,6 +52,10 @@ body {
     font-size: 60px;
 }
 
+#hero-b {
+    margin-bottom: 25px;
+}
+
 /* services section */
 
 #services {

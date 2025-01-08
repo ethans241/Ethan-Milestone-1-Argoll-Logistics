@@ -233,6 +233,20 @@ The thank you section on the success page has a small thank you message to let t
 
 ![Thank you section screenshot from the success page](Docs/Readme-images/success-page-thank-you.png)
 
+#### 404 Page
+
+The 404 page contains the following.
+
+With the 404 page I have put a fun twist on the 404 which links back to the reason of the website which is deliveries.
+
+Hero Image
+
+On the hero section I decide with a image of a door with the number 404 so the customer can link it to a 404 page.
+
+
+
+
+
 ### Future Implementations
 
 I would like to add a schedule page to give the user important information about how long it takes for their deliveries to get to certain countries. I would do this by building a form that once complete would pull information from a database and only show the relevant data to the user.
@@ -319,9 +333,7 @@ To clone the repository:
 
 ## Testing
 
-[Testing Documentation](testing.md)
-  
-Use this part of the README to link to your TESTING.md file - you can view the example TESTING.md file [here](milestone1-testing.md)
+Al the testing for this project has been added to the [Testing Documentation](testing.md)
 
 ## Credits
 
@@ -368,15 +380,12 @@ Joburg - Photo by [Arlington Research](https://unsplash.com/photos/man-sitting-i
 Sydney - Photo by [Arlington Research](https://unsplash.com/photos/unknown-persons-using-computer-indoors-nFLmPAf9dVc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 404 page image - Photo by [Romson Preechawit](https://unsplash.com/photos/grey-door-lever-Vy2cHqm0mCs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
-      
-  
-404 modal image - Photo by [Rhys Courtney](https://unsplash.com/photos/a-close-up-of-a-llama-eating-grass-WwR0qVaOn6k?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
         
 ###  Acknowledgments
 
 I would like to thank the following for the help they have given me on the project.
 
-My mentor Graeme for the helping with the solid advise and make sure I am on the right track for this project.
+My mentor Graeme for the helping with the solid advise and for making sure I am on the right track for this project.
 
 Kera Cudmore for the brilliant [document](https://github.com/kera-cudmore/readme-examples) that help me build this very document and without such help I would not have been able to build such a great readme and testing document.
 
