@@ -167,6 +167,19 @@ body {
 
 /* 404 page */
 
+/* buttons on 404 and modal */
+
+.form-button {
+    background-color: var(--secondary-color);
+    color: var(--highlight-color);
+    border: none;
+}
+
+.form-button:hover {
+    background-color: var(--highlight-color-light);
+    color: var(--secondary-color);
+}
+
 /* Modal styling */
 
 .modal-css {

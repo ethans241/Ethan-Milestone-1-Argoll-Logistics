@@ -1,7 +1,7 @@
 
 # Ethan-milestone-1-Argoll-Logistics -  Testing
 
-![A view of the website on multiple devices](Docs/Readme-images/website-view.png)
+![A view of the website on multiple devices](docs/readme-images/website-view.png)
 
 Visit the deployed site: [Argoll Logistics](https://ethans241.github.io/Ethan-Milestone-1-Argoll-Logistics/).
 
@@ -30,10 +30,11 @@ I have gone through each page using google chrome developer tools to ensure that
 
 [W3C](https://validator.w3.org/) was used to validate the HTML on all pages of the website. It was also used to validate the CSS.
 
-* [index.html](Docs/testing/W3C-index.png) - Passed.
-* [services.html](Docs/testing/W3C-services.png) - Passed.
-* [contact.html](Docs/testing/W3C-contact.png) - Passed.
-* [success.html](Docs/testing/W3C-success.png) - Passed.
+* [index.html](docs/testing/w3c-index.png) - Passed.
+* [services.html](docs/testing/w3c-services.png) - Passed.
+* [contact.html](docs/testing/w3c-contact.png) - Passed.
+* [success.html](docs/testing/w3c-success.png) - Passed.
+* [404.html]()
 
 * [style.css](Docs/testing/CSS-style.png) - Passed, no errors found.
 
