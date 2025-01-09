@@ -5,6 +5,8 @@ A Static front end website for a logistic company. This website provides a basic
 
 This website was built to help Argoll Logistics to build a stronger online presence and generate more leads that the company can work with to turn into value generation sales of service.
 
+Visit the deployed site: [Argoll Logistics](https://ethans241.github.io/Ethan-Milestone-1-Argoll-Logistics/).
+
 ![A view of the website on multiple devices](docs/readme-images/website-view.png)
 
 
@@ -89,7 +91,7 @@ The site user’s are new and returning customers who want to know about the com
 
 The colour palette was created using the [Coolors](https://coolors.co/) website.
 
-I chose the above colours to give the website a modern, clean and aestheticly pleasing look with a nice contract to give the user and owner a feeling of confidence that the website is built by a professional.
+I chose the above colours to give the website a modern, clean and aestheticly pleasing look with a nice contrast to give the user and owner confidence that the website is built by a professional.
 
 ### Typography
 
@@ -107,7 +109,7 @@ Please note that the above fonts maybe shown in a writing system that is not the
 
 I have used images that convey information through said images. By using these images it allows for a user who may not have industry knowledge to easily be able to use the website as they will give the user a well known visual that will allow them to pick the option that they want and not to get lost within the written information they may not want.
 
-All images used on the website are from [Unsplash](https://unsplash.com/) website. I have credited each image aurthor in the [Credits](#credits) Section.
+All images used on the website are from [Unsplash](https://unsplash.com/). I have credited each image aurthor in the [Credits](#credits) Section.
 
 ### Wireframes
 
@@ -139,7 +141,7 @@ Please find the wireframe designs for the home, services and contact us pages in
 
 ## Features
 
-The Website consists of 5 pages, the website has a home page, services page, contact, success page and 404 page.
+The Website consists of 5 pages, the website has a home page, services page, contact page, success page and 404 page.
 
 As this is the first deployment of the website I wanted to make sure that it contained all the important information to allow the user to understand and hopefully send through their information to begin building a business relationship.
 
@@ -153,13 +155,13 @@ The Navigation bar is one of the main features which allows the user to navigate
 
 #### Footer
 
-The footer is another feature which is seen on all pages. The footer hold important information for user such as the address, social links and quick contact details, this information makes it easier for the user to contact us without having to use the contact page.
+The footer is another feature which is seen on all pages. The footer hold important information for user such as the address, social links and quick contact details, this information makes it easier for the user to contact the company without having to use the contact page.
 
 ![Footer screenshot from website](docs/readme-images/footer.png)
 
 #### Favicon
 
-The favicon can be seen on the navbar as the link to home on the right hand side and also on the tab are of the web browser, this give the website a small but important change which gives the user the feeling that the website was built professionaly.
+The favicon can be seen on the navbar as the link to home on the right hand side and also on the tab of the web browser, this give the website a small but important change which gives the user the feeling that the website was built professionaly.
 
 ![Favicon screenshot from website](docs/readme-images/favicon.png)
 
@@ -175,11 +177,13 @@ Hero Image with company name.
 
 The hero image gives a clear understanding to the user as to the company's area of business as well as having logistics in the name of the company.
 
+There is also a call to action on the head which is linked to the contact page.
+
 ![hero screenshot from home page](docs/readme-images/home-page-hero.png)
 
 Card Section
 
-Card section that is linked to the service page, each card is linked to the section of the service page to give the user a shortcut to the information they need.
+The card section is linked to the service page, each card is linked to the section of the service page to give the user a shortcut to the information they need.
 
 ![Card section screenshot from home page](docs/readme-images/home-page-card-shortcut.png)
 
@@ -203,9 +207,9 @@ The carousel that has been added to the services page uses the same images from 
 
 ![Hero screenshoot from services page](docs/readme-images/services-page-hero.png)
 
-Services info section
+Services infomation section
 
-The services infomation section has a seperate section for each type of transport service offered (road, rail, air and sea). Each section has the image from the card section on the home page which is linked to the that section's infomation. Again this is to give the customer a feeling of knowing and continuity.
+The services infomation section has a seperate section for each type of transport service offered (road, rail, air and sea). Each section has the image from the card section on the home page which is linked to the that section's infomation. Again this is to give the customer a feeling of understanding and continuity.
 
 ![services section screenshoot from services page](docs/readme-images/services-page-service-info-section.png)
 
@@ -213,11 +217,11 @@ The services infomation section has a seperate section for each type of transpor
 
 ![Contact page on multiple devices](docs/readme-images/argoll-contact-devices.png)
 
-The services page contains the following.
+The contact page contains the following.
 
 Hero Image with company name and page title
 
-The hero section on the contact page has the same design as the other hero sections on the website but with a different image to give the customer an easy visiual aid as to what page they are on.
+The hero section on the contact page has the same design as the other hero sections on the website but with a different image to give the customer an easy visual aid as to what page they are on.
 
 ![Hero screenshot from contact page](docs/readme-images/contact-page-hero.png)
 
@@ -322,10 +326,6 @@ Success page - No Errors
 
 ## Technologies Used
 
-### Languages Used
-
-HTML and CSS were used to create this website.
-
 ### Frameworks, Libraries & Programs Used
 
 [Balsamiq](https://balsamiq.com/) - Used to create wireframes.
@@ -418,9 +418,9 @@ Stats Image - Photo by [Annie Spratt](https://unsplash.com/photos/selective-focu
 
 Contact Image - Photo by [Charanjeet Dhiman](https://unsplash.com/photos/woman-in-black-headphones-holding-black-and-silver-headphones-mHusyBu4bxM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
-Cardiff Image - Photo by [Nastuh Abootalebi](https://unsplash.com/photos/hallway-between-glass-panel-doors-yWwob8kwOCk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+Cardiff - Photo by [Nastuh Abootalebi](https://unsplash.com/photos/hallway-between-glass-panel-doors-yWwob8kwOCk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
-London Image - Photo by [Nastuh Abootalebi](https://unsplash.com/photos/photo-of-dining-table-and-chairs-inside-room-eHD8Y1Znfpk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+London - Photo by [Nastuh Abootalebi](https://unsplash.com/photos/photo-of-dining-table-and-chairs-inside-room-eHD8Y1Znfpk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 New York - Photo by [LYCS Architecture](https://unsplash.com/photos/man-and-woman-sitting-on-table-U2BI3GMnSSE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
@@ -430,7 +430,7 @@ Joburg - Photo by [Arlington Research](https://unsplash.com/photos/man-sitting-i
 
 Sydney - Photo by [Arlington Research](https://unsplash.com/photos/unknown-persons-using-computer-indoors-nFLmPAf9dVc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
-404 page image - Photo by [Romson Preechawit](https://unsplash.com/photos/grey-door-lever-Vy2cHqm0mCs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+404 - Photo by [Romson Preechawit](https://unsplash.com/photos/grey-door-lever-Vy2cHqm0mCs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
         
 ###  Acknowledgments
 
@@ -442,4 +442,4 @@ Kera Cudmore for the brilliant [document](https://github.com/kera-cudmore/readme
 
 I would also like to thank code institute for the outstanding course documentation which helped me when I was stuck and able to go back over to give my mind a refresh.
 
-Last but not least I would like to thank the coding community on slack and other forums which give me hits and the answers to many issue while working on this project that I may not have been able to pass without their knowledge.
+Last but not least I would like to thank the coding community on slack and other forums which give me hits to many issues while working on this project that I may not have been able to pass without their knowledge.

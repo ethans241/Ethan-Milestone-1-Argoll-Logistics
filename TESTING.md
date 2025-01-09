@@ -116,7 +116,7 @@ __Navigation bar__
 
 __Expected__
 
-I expect the nav bar to link all the pages together and give easy navigation of the website. On each respected page the navbar will show what page you are on as shown below.
+I expect the nav bar to link all the pages together and give easy navigation of the website. On each respective page the navbar will show what page you are on as shown below.
 
 Home page - Home option is highlighted to show current page.
 ![Navbar with home page being shown as the active page](docs/readme-images/navbar.png)
@@ -231,8 +231,8 @@ __Form Button__
 
 __Expected__
 
-*When the user tries to submit the form with one or more of the form fields being filled in the form validation gives the user a prompt to fill in the missing fields. 
-*When form validation has been met the user will be able to submit the form via the form button and will be taken to the success page so the user knows the form has be passed onto the company.
+* When the user tries to submit the form with one or more of the form fields being empty, the form validation gives the user a prompt to fill in the missing fields. 
+* When form validation has been met the user will be able to submit the form via the form button and will be taken to the success page so the user knows the form has been passed onto the company.
 
 __Results__
 
