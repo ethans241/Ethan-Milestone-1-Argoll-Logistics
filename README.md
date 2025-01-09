@@ -388,7 +388,7 @@ To clone the repository:
 
 ## Testing
 
-All the testing for this project has been added to the [Testing Documentation](testing.md)
+All the testing for this project has been added to the [Testing Documentation](TESTING.md)
 
 ## Acknowledgements
 

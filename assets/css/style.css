@@ -159,6 +159,10 @@ body {
    margin-bottom: 1rem;
 }
 
+.text-padding-top {
+    margin-top: 10px;
+}
+
  /* Thank you page */
 
  #thank-you {
